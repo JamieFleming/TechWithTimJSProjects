@@ -1,0 +1,44 @@
+{
+    "questions": [
+        {
+            "question": "What is the largest planet in out solar system?",
+            "options": [
+                "Earth",
+                "Mars",
+                "Jupiter",
+                "Saturn"
+            ],
+            "answer": "Jupiter"
+        },
+        {
+            "question": "What element has the chemical symbol 'O'?",
+            "options": [
+                "Osmium",
+                "Oxygen",
+                "Gold",
+                "Oganesson"
+            ],
+            "answer": "Oxygen"
+        },
+        {
+            "question": "Where do I live?",
+            "options": [
+                "Scotland",
+                "France",
+                "Germany",
+                "England"
+            ],
+            "answer": "England"
+        },
+        {
+            "question": "What is my name?",
+            "options": [
+                "Jamie",
+                "John",
+                "Bob",
+                "Oscar"
+            ],
+            "answer": "Jamie"
+        }
+    ]
+}
